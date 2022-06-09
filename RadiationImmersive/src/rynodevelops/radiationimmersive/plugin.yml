@@ -1,0 +1,7 @@
+name: RadiationImmersive
+author: Rynoooo
+version: 1.0
+main: rynodevelops.radiationimmersive.Main
+description: Adds immersive radiation-stuff!
+api-version: 1.16
+depend: [WorldEdit]
